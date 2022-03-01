@@ -1,4 +1,4 @@
-## 👋 Olá! Sou a Polyana Cunha
+## 👋 Olá! Sou a Polyana Cunha!
 ✨ Estou aprendendo sobre front-end e back-end. 
 🌻 Já tenho um bom conhecimento sobre HTML, CSS, Javascript, Jquery, Bootstrap, SEO e ECMAScript6.
 🥰 Atualmente, estudando PHP.
