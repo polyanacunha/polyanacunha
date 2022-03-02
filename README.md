@@ -2,6 +2,7 @@
 ✨ Estou aprendendo sobre front-end e back-end. 
 🌻 Já tenho um bom conhecimento sobre HTML, CSS, Javascript, Jquery, Bootstrap, SEO e ECMAScript6.
 🥰 Atualmente, estudando PHP.
+🍕 Meus próximos estudos serão em React e SQL.
 ✍ Cursando ciência da computação e iniciando minha carreira como desenvolvedora, tenho muito para aprender e muita força de vontade!
 
 <div align="center">
