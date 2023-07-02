@@ -1,5 +1,5 @@
 ## 👋 Olá! Sou a Polyana Cunha!
-✍ Cursando ciência da computação e iniciando minha carreira como desenvolvedora!
+✍ Cursando ciência da computação.
 
 <div align="center">
   <a href="https://github.com/polyanacunha">
